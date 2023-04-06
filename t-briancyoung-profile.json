@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T17:55:28Z",
+  "IdClaims": [
+    {
+      "Claim": "t:briancyoung"
+    },
+    {
+      "Claim": "gh:briancordanyoung"
+    },
+    {
+      "Claim": "mdon:@briancordanyoung@indieweb.social"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "a16cf461c058d0be2e5fc98d",
+    "Timestamp": "2023-04-06T18:00:08Z",
+    "Signature": "16d1d4f2cbcb3d06dad1b493b4a301b32fec36744f93207989f735dc1a8e741e8a43da57bfbfd5010501e276a5fc11b48cbdbcbe7df6b45a4debe647edc811e070c8e5a8468b62053159888207699668f692a358a4019cdf255e434366bc4fb1b85c36ea9f0436b76b2e674a2d31f8da738d97563f076821a6cdb9706cbcc72a127430e3a9d035c6ab31e1ec0235f2f60c71e6ed269c0be28a4c60a91c9f6a5963ceec3f4207c14cbacde277b52751bd2d920d58ff97d2f5d68ce25173ba23473b47bace55c037d6a7f84e01cd1d05a4fa747739a422d423ad9c62df2e3ff8e04f7f4523a8c27bc074e1e49199535c00dda5fda5e83cc46cfa16b2e27ae9aa6b"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "35c488226afa4582e9a50bf52617c0018a327d0d9f16b471ab828aa1ceaf163d",
+  "ContentToHash": "v1|gh:briancordanyoung,mdon:@briancordanyoung@indieweb.social,t:briancyoung|2023-04-06T17:55:28Z"
+}
